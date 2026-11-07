@@ -19,11 +19,11 @@ I like building playful, useful things, like a desktop duck that roasts me for o
       <code>Swift</code> <code>AppKit</code> <code>macOS</code>
     </td>
     <td width="50%" valign="top">
-      <h4>📱 lexdroid</h4>
-      <!-- TODO: one or two lines about lexdroid, plus a link -->
-      <i>Description coming soon.</i>
+      <h4>🌏 lexdroid</h4>
+      A RegTech tool built at a hackathon for the UN. It helps researchers streamline the process of
+      ranking countries against the pillars of the RDTII (Regional Digital Trade Integration Index).
       <br><br>
-      <!-- <code>Tech</code> <code>Stack</code> -->
+      <code>RegTech</code> <code>Hackathon</code> <code>UN</code>
     </td>
   </tr>
 </table>
